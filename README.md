@@ -1,11 +1,11 @@
 # LLMetroid
 
 
-# Ever wish Samus Aran would narrate her own existential dread while exploring? LLMetroid makes it happen. This is a proof-of-concept that uses a fine-tuned LLM and emulator Lua scripting to bring inner monologue to Metroid.
+### Ever wish Samus Aran would narrate her own existential dread while exploring? LLMetroid makes it happen. This is a proof-of-concept that uses a fine-tuned LLM and emulator Lua scripting to bring inner monologue to Metroid.
 
-What Is This?
-LLMetroid hooks a custom-trained GPT-2 model to your Metroid emulator (tested on BizHawk & mGBA).
-The Lua script grabs Samus’s energy, missile count, and room info and feeds it to the LLM, generating real-time Samus commentary.
+# What Is This?
+### LLMetroid hooks a custom-trained GPT-2 model to your Metroid emulator (tested on BizHawk & mGBA).
+### The Lua script grabs Samus’s energy, missile count, and room info and feeds it to the LLM, generating real-time Samus commentary.
 
 ## Setup Guide
 # 1. Clone This Repo
@@ -20,19 +20,24 @@ One for running the TTS/voice stuff
 
 ## Training Virtual Enviroment Setup
 
+### Training Venv
 python -m venv train_venv
-
-source train_venv/bin/activate # Linux/macOS
-.\train_venv\Scripts\activate        # Windows
+source train_venv/bin/activate   # Linux/macOS
+.\train_venv\Scripts\activate   # Windows
 pip install -r requirements-train.txt
-Voice venv
 
+### Voice venv
 python -m venv voice_venv
-source voice_venv/bin/activate          # Linux/macOS
-.\voice_venv\Scripts\activate        # Windows
+
+### Linux/MacOS
+source voice_venv/bin/activate
+
+### Windows
+.\voice_venv\Scripts\activate
+
 pip install -r requirements-voice.txt
 
-#3. Train or Load Your Model
+# 3. Train or Load Your Model
 To train your own Samus-brain, run:
 
 
@@ -46,8 +51,12 @@ Open mgba_ram_watch.lua (or whatever Lua script you use for RAM scraping) in the
 
 # 5. Run the Samus Voice
 Activate your voice venv:
-source voice_venv/bin/activate          # Linux/macOS
-.\voice_venv\Scripts\activate        # Windows
+
+### Linux/macOS
+source voice_venv/bin/activate
+
+### Windows
+.\voice_venv\Scripts\activate        
 
 Start the commentary:
 python suit_voice.py
