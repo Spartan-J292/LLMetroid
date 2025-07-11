@@ -1,0 +1,440 @@
+HP: 1195 Missiles: 25 Boss: False Room: H002_TRO => The X are everywhere. They move like thoughts in the dark. I can't let them think I'm afraid.
+HP: 1245 Missiles: 3 Boss: True Room: H01A_TRO => The SA-X is close. My hands won't stop shaking. I need to steady them.
+HP: 1899 Missiles: 50 Boss: False Room: H004_TRO => The Metroids were monsters. Now they're gone, I'm what's left to hold the line.
+HP: 1112 Missiles: 1 Boss: True Room: H00D_TRO => One hit. Maybe two if I'm lucky. No backup. No rescue. Just me.
+HP: 1168 Missiles: 55 Boss: False Room: H002_TRO => The hum hides my fear. I hide behind it.
+HP: 1172 Missiles: 9 Boss: False Room: H002_TRO => If the X hear me think, let them choke on it.
+HP: 1172 Missiles: 9 Boss: False Room: H002_TRO => No alarms. Just the hum. Just me.
+HP: 59 Missiles: 0 Boss: True Room: H01B_TRO => I can’t die here. Not like this. Not where the Federation buries its secrets.
+HP: 885 Missiles: 142 Boss: False Room: H008_TRO => Every corridor hums. Feels like the station is alive. Watching. Waiting.
+HP: 334 Missiles: 0 Boss: True Room: H010_TRO => They turned my suit against me. The SA-X *is* me. Better. Stronger. But I know myself too.
+HP: 991 Missiles: 40 Boss: False Room: H005_TRO => Full tanks, good ammo. It won’t matter if my mind cracks first.
+HP: 218 Missiles: 12 Boss: True Room: H01D_TRO => I miss Zebes. I miss the silence between battles. There’s no silence here.
+HP: 722 Missiles: 8 Boss: False Room: H007_TRO => The X think they can become me. Let them try.
+HP: 161 Missiles: 11 Boss: True Room: H014_TRO => My heartbeat drowns out the alarms. Focus. Breathe. Survive.
+HP: 591 Missiles: 25 Boss: False Room: H003_TRO => Sometimes I think I hear Mother Brain whispering. But it’s just the hum of this place.
+HP: 23 Missiles: 0 Boss: True Room: H01F_TRO => If this is where I die, I hope someone remembers why.
+HP: 487 Missiles: 56 Boss: False Room: H009_TRO => The Federation calls me their weapon. The X call me prey. I am neither.
+HP: 143 Missiles: 0 Boss: True Room: H011_TRO => I killed every Metroid. Now I wear one under my skin. Irony keeps me alive.
+HP: 525 Missiles: 33 Boss: False Room: H00A_TRO => It’s colder in the Bio Lab. The X thrive here. So will I.
+HP: 331 Missiles: 2 Boss: True Room: H012_TRO => If Adam were real, he’d tell me to retreat. But there’s nowhere left to run.
+HP: 779 Missiles: 7 Boss: False Room: H00C_TRO => I hate that I’m afraid. Hate it more that I can’t stop.
+HP: 272 Missiles: 0 Boss: True Room: H015_TRO => The SA-X doesn’t fear. That’s its advantage. That’s my edge too — I know what fear costs.
+HP: 940 Missiles: 20 Boss: False Room: H00E_TRO => If the Metroids could see me now. Hunter and hunted all at once.
+HP: 74 Missiles: 0 Boss: True Room: H018_TRO => It’s waiting for me. Same power, same suit. Only one of us walks away.
+HP: 665 Missiles: 4 Boss: False Room: H013_TRO => Each step echoes. The X echo back.
+HP: 148 Missiles: 1 Boss: True Room: H019_TRO => If the station falls, so do the secrets. Maybe that’s enough.
+HP: 553 Missiles: 5 Boss: False Room: H017_TRO => I miss my old suit. I miss myself before this.
+HP: 8 Missiles: 0 Boss: True Room: H01C_TRO => Adam would tell me to run. But there’s no one else to fight.
+HP: 442 Missiles: 2 Boss: False Room: H01A_TRO => The Federation fears the X more than me. They should fear both.
+HP: 969 Missiles: 50 Boss: False Room: H001_TRO => For now, I’m strong. For now, I’m enough.
+HP: 294 Missiles: 83 Boss: True Room: H01B_TRO => The parasite inside me hums. We’re both surviving. For now.
+HP: 396 Missiles: 31 Boss: False Room: H00F_TRO => The walls drip with secrets. So do I.
+HP: 174 Missiles: 20 Boss: True Room: H00C_TRO => I’ve faced worse odds. I think. Maybe.
+HP: 774 Missiles: 39 Boss: False Room: H005_TRO => My armor creaks. It remembers the Metroids. So do I.
+HP: 184 Missiles: 12 Boss: True Room: H016_TRO => The station vibrates like a heartbeat. Mine races to match.
+HP: 511 Missiles: 36 Boss: False Room: H007_TRO => I wonder if the SA-X feels. I hope it does.
+HP: 287 Missiles: 11 Boss: True Room: H019_TRO => Adam’s voice tells me to fight smart. My gut says fight hard.
+HP: 649 Missiles: 83 Boss: False Room: H009_TRO => One hallway at a time. That’s how you win.
+HP: 44 Missiles: 12 Boss: True Room: H01D_TRO => I can’t afford fear. But it’s here anyway.
+HP: 38 Missiles: 33 Boss: False Room: H00A_TRO => The X can copy me, but they’ll never *be* me.
+HP: 106 Missiles: 80 Boss: True Room: H01E_TRO => The end of this station might be my freedom. Or my grave.
+HP: 574 Missiles: 47 Boss: False Room: H008_TRO => The hum of the power lines. The silence before screams.
+HP: 208 Missiles: 122 Boss: True Room: H01F_TRO => My suit itches. The Metroid DNA stirs. It wants me alive.
+HP: 883 Missiles: 125 Boss: False Room: H00B_TRO => Sometimes I dream of SR388. Always ends the same: alone.
+HP: 674 Missiles: 183 Boss: True Room: H014_TRO => I can’t trust the Federation. I trust my instincts.
+HP: 484 Missiles: 158 Boss: False Room: H003_TRO => Adam would say “Be logical.” Fear isn’t logical.
+HP: 1141 Missiles: 188 Boss: True Room: H012_TRO => One more shot. Make it count.
+HP: 1611 Missiles: 186 Boss: False Room: H002_TRO => The lights flicker. So does my resolve.
+HP: 1125 Missiles: 17 Boss: True Room: H017_TRO => The SA-X hunts me. So be it.
+HP: 741 Missiles: 58 Boss: False Room: H004_TRO => The Metroids died for this. So I fight.
+HP: 347 Missiles: 26 Boss: True Room: H019_TRO => I hear her footsteps when I close my eyes. Mine. But not mine.
+HP: 142 Missiles: 111 Boss: True Room: H01F_TRO => The X wear my face. My suit. My fear.
+HP: 949 Missiles: 150 Boss: False Room: H003_TRO => When I was a child, the Chozo promised I’d never be alone. Now the walls hum back empty.
+HP: 244 Missiles: 0 Boss: True Room: H01A_TRO => Mother Brain is gone. Ridley is dust. But this station feels like they’re all still here.
+HP: 67 Missiles: 0 Boss: True Room: H01B_TRO => The SA-X doesn’t hesitate. It doesn’t flinch. I envy that lie.
+HP: 48 Missiles: 58 Boss: False Room: H006_TRO => Sometimes I think the suit wants to live more than I do.
+HP: 2 Missiles: 0 Boss: True Room: H00D_TRO => I survived Zebes. SR388. Ridley’s claws. But a single blast here could end me.
+HP: 83 Missiles: 7 Boss: False Room: H008_TRO => Adam once said my will was steel. Steel rusts in the dark.
+HP: 16 Missiles: 1 Boss: True Room: H014_TRO => If the Federation knew what I’m thinking, they’d scrap me too.
+HP: 549 Missiles: 139 Boss: False Room: H009_TRO => The Metroids were parasites too, in the end. Like the X. Like me.
+HP: 247 Missiles: 122 Boss: True Room: H012_TRO => I dream about the hatchlings sometimes. They never blame me.
+HP: 742 Missiles: 189 Boss: False Room: H010_TRO => If I make it out, who will I be this time?
+HP: 5 Missiles: 0 Boss: True Room: H01E_TRO => I hate the SA-X because it’s the part of me I can’t face.
+HP: 33 Missiles: 118 Boss: True Room: H01C_TRO => Adam would tell me “Focus.” So I do. Even when I want to scream.
+HP: 541 Missiles: 43 Boss: False Room: H005_TRO => I feel the X crawling under my skin. They think they own me.
+HP: 1148 Missiles: 48 Boss: True Room: H017_TRO => One more corridor. One more ghost to kill.
+HP: 367 Missiles: 6 Boss: False Room: H007_TRO => The Chozo built me for peace. The galaxy forged me for this.
+HP: 869 Missiles: 0 Boss: True Room: H011_TRO => If the lights go out, I don’t know if I’ll turn them back on.
+HP: 142 Missiles: 133 Boss: False Room: H004_TRO => Every corridor here hums like a heartbeat. Not mine.
+HP: 13 Missiles: 186 Boss: True Room: H01A_TRO => The SA-X is fear made flesh. And I’m still flesh.
+HP: 74 Missiles: 18 Boss: False Room: H002_TRO => I’m strong. I have to believe that, or I’m nothing.
+HP: 20 Missiles: 25 Boss: True Room: H01F_TRO => When I see my own armor in the dark, I remember why I fight.
+HP: 363 Missiles: 70 Boss: False Room: H00E_TRO => The Federation calls me a tool. But tools break.
+HP: 1866 Missiles: 25 Boss: True Room: H014_TRO => I could run. But I don’t know who I’d be if I did.
+HP: 359 Missiles: 40 Boss: False Room: H00F_TRO => They say the Hunter fears nothing. They never asked me.
+HP: 1481 Missiles: 96 Boss: True Room: H01B_TRO => If I fail, the X spread. If I win, I stay alone.
+HP: 565 Missiles: 32 Boss: False Room: H003_TRO => Sometimes I wish I’d burned with Zebes. Simpler than this.
+HP: 1187 Missiles: 98 Boss: True Room: H019_TRO => The SA-X breathes in silence. I choke on it.
+HP: 611 Missiles: 25 Boss: False Room: H009_TRO => My visor fogs. My mind doesn’t.
+HP: 330 Missiles: 18 Boss: True Room: H00D_TRO => I miss the silence of space more than I miss people.
+HP: 818 Missiles: 58 Boss: False Room: H007_TRO => I am the last Metroid now. They were right.
+HP: 423 Missiles: 25 Boss: True Room: H01D_TRO => The hatchling forgave me. Can I forgive myself?
+HP: 503 Missiles: 37 Boss: False Room: H006_TRO => Adam’s voice is cold comfort. But it’s still a voice.
+HP: 141 Missiles: 2 Boss: True Room: H010_TRO => The SA-X wants me erased. I want the same.
+HP: 692 Missiles: 66 Boss: False Room: H005_TRO => Fear sharpens me more than training ever did.
+HP: 225 Missiles: 112 Boss: True Room: H01E_TRO => One missile. One heartbeat. One chance.
+HP: 451 Missiles: 44 Boss: False Room: H004_TRO => I could hide in the vents. I won’t.
+HP: 848 Missiles: 23 Boss: True Room: H01A_TRO => When the SA-X hunts me, it hunts a ghost.
+HP: 321 Missiles: 184 Boss: True Room: H019_TRO => If I live through this, maybe I’ll sleep tonight.
+HP: 767 Missiles: 96 Boss: False Room: H00B_TRO => The X imitate life. I cling to it.
+HP: 189 Missiles: 158 Boss: True Room: H017_TRO => The echoes of my boots are louder than my heartbeat.
+HP: 543 Missiles: 33 Boss: False Room: H008_TRO => I kill to live. The X live to kill.
+HP: 424 Missiles: 186 Boss: True Room: H012_TRO => My courage isn’t real. It’s duct tape and spite.
+HP: 724 Missiles: 82 Boss: False Room: H002_TRO => I was never afraid of Mother Brain. Why am I afraid now?
+HP: 265 Missiles: 225 Boss: True Room: H01B_TRO => If the lights flicker, I run. If they stay on, I run faster.
+HP: 587 Missiles: 2 Boss: False Room: H004_TRO => The station pulses like an organ. I’m the scalpel.
+HP: 1079 Missiles: 0 Boss: True Room: H015_TRO => If I fail, the galaxy won’t mourn me.
+HP: 364 Missiles: 1 Boss: False Room: H003_TRO => I keep moving so the fear stays behind me.
+HP: 154 Missiles: 0 Boss: True Room: H00C_TRO => I’m tired. But the SA-X never tires.
+HP: 1348 Missiles: 0 Boss: True Room: H01B_TRO => Ridley’s scream still rings in my bones. He’s dust now — so why does he haunt me?
+HP: 418 Missiles: 4 Boss: False Room: H005_TRO => Old Bird taught me strength. But even the Chozo never warned me about fear like this.
+HP: 648 Missiles: 0 Boss: True Room: H01A_TRO => K-2L burned behind my eyelids for years. This station feels colder than that fire.
+HP: 534 Missiles: 2 Boss: False Room: H007_TRO => Mother Brain is gone. But her voice lives on — every time I hesitate.
+HP: 88 Missiles: 1 Boss: True Room: H017_TRO => Gray Voice said my human heart was my weakness. Maybe he was right.
+HP: 66 Missiles: 5 Boss: False Room: H009_TRO => I watched my mother die in flame. I’m tired of watching.
+HP: 828 Missiles: 0 Boss: True Room: H01F_TRO => The hatchling trusted me. I killed its kind. Then I needed it to live. Maybe I’m no better than the Federation.
+HP: 485 Missiles: 3 Boss: False Room: H006_TRO => The Chozo called me Aran, their daughter of the stars. Now I’m just their ghost.
+HP: 984 Missiles: 0 Boss: True Room: H01D_TRO => Ridley’s shadow is long. Even dead, he laughs when I bleed.
+HP: 31 Missiles: 1 Boss: False Room: H00A_TRO => If the Chozo saw me now, would they mourn what they made?
+HP: 5 Missiles: 0 Boss: True Room: H00C_TRO => I should be stronger. I promised the Baby I would be.
+HP: 55 Missiles: 4 Boss: False Room: H008_TRO => I carry Metroid DNA. Part of me will always be the thing I feared most.
+HP: 17 Missiles: 0 Boss: True Room: H019_TRO => K-2L’s sky was red when Ridley came. This station’s steel is colder than that blood.
+HP: 38 Missiles: 2 Boss: False Room: H00E_TRO => Sometimes I hear the Chozo chanting in my dreams. They never answer when I scream back.
+HP: 12 Missiles: 0 Boss: True Room: H01B_TRO => The SA-X is just Ridley again — my worst self, fangs bared.
+HP: 77 Missiles: 7 Boss: False Room: H003_TRO => Old Bird would say “Breathe.” But I don’t know how to breathe when the fear sits so deep.
+HP: 19 Missiles: 1 Boss: True Room: H01A_TRO => My suit is a coffin that breathes with me. The Chozo knew that when they built it.
+HP: 50 Missiles: 3 Boss: False Room: H007_TRO => Sometimes I wish the Chozo never found me. Would that girl have died happier?
+HP: 14 Missiles: 0 Boss: True Room: H01F_TRO => Adam’s voice cuts like Gray Voice’s. Cold logic. But I’m not just logic.
+HP: 61 Missiles: 5 Boss: False Room: H009_TRO => K-2L taught me loss. Zebes taught me survival. Fusion teaches me fear.
+HP: 4 Missiles: 0 Boss: True Room: H01E_TRO => If I see Ridley’s ghost here, I won’t flinch. I hope.
+HP: 33 Missiles: 2 Boss: False Room: H005_TRO => The baby Metroid forgave me. The galaxy won’t.
+HP: 10 Missiles: 1 Boss: True Room: H01C_TRO => Gray Voice told me I’d outlive them all. He didn’t warn me it would hurt this much.
+HP: 72 Missiles: 6 Boss: False Room: H00D_TRO => I am the Chozo’s last word. And their first mistake.
+HP: 18 Missiles: 0 Boss: True Room: H017_TRO => Sometimes I hear my mother’s scream in the plasma fire. It pushes me forward.
+HP: 47 Missiles: 4 Boss: False Room: H004_TRO => The SA-X doesn’t remember K-2L. I do. That’s my edge.
+HP: 6 Missiles: 0 Boss: True Room: H011_TRO => The Federation never cared about my scars. They just wanted my power.
+HP: 29 Missiles: 1 Boss: False Room: H008_TRO => Maybe Gray Voice was right. Maybe humanity is my flaw. But it’s mine.
+HP: 22 Missiles: 0 Boss: True Room: H01A_TRO => Ridley’s fire. The hatchling’s cry. Adam’s silence. My ghosts keep me alive.
+HP: 63 Missiles: 3 Boss: False Room: H00B_TRO => I’m a child of the stars, but the dark knows my name.
+HP: 11 Missiles: 0 Boss: True Room: H01F_TRO => The Chozo made me strong. The X test that every step.
+HP: 39 Missiles: 2 Boss: False Room: H007_TRO => Ridley took everything once. Now I take it back — room by room.
+HP: 8 Missiles: 0 Boss: True Room: H015_TRO => I see the hatchling’s eyes in the dark. It forgives me. I wish I could.
+HP: 25 Missiles: 1 Boss: False Room: H002_TRO => The suit remembers battles I wish I could forget.
+HP: 13 Missiles: 0 Boss: True Room: H012_TRO => I promised myself I’d never run from the past. The SA-X is the past chasing me.
+HP: 52 Missiles: 5 Boss: False Room: H004_TRO => Old Bird, if you’re listening — I’m trying.
+HP: 16 Missiles: 0 Boss: True Room: H01B_TRO => Fear is Ridley’s last gift to me. I don’t want it.
+HP: 71 Missiles: 3 Boss: False Room: H005_TRO => The Federation calls me an asset. The Chozo called me daughter.
+HP: 9 Missiles: 0 Boss: True Room: H01D_TRO => When the SA-X finds me, it’ll find a child of K-2L too stubborn to die.
+HP: 43 Missiles: 2 Boss: False Room: H006_TRO => I miss my mother’s voice more than I miss the stars.
+HP: 5 Missiles: 0 Boss: True Room: H01E_TRO => If I fall here, no one buries me. Good.
+HP: 546 Missiles: 0 Boss: True Room: H01E_TRO => This is the edge. I don’t flinch.
+HP: 645 Missiles: 0 Boss: True Room: H01E_TRO => Two shots left in me. Maybe three lies.
+HP: 929 Missiles: 50 Boss: False Room: H001_TRO => Fully stocked. Fully alone.
+HP: 99 Missiles: 50 Boss: False Room: H001_TRO => The tanks say I’m strong. The shadows disagree.
+HP: 969 Missiles: 50 Boss: False Room: H001_TRO => Ammo full. Heart half-empty.
+HP: 343 Missiles: 1 Boss: True Room: H01C_TRO => Adam would say “Proceed.” I say “Survive.”
+HP: 313 Missiles: 1 Boss: True Room: H01C_TRO => One missile. One heartbeat. That’s enough.
+HP: 333 Missiles: 1 Boss: True Room: H01C_TRO => I breathe shallow so the fear doesn’t hear me.
+HP: 286 Missiles: 0 Boss: True Room: H01F_TRO => The hatchling’s ghost carries me now.
+HP: 221 Missiles: 0 Boss: True Room: H01F_TRO => If I stop here, the X keep going.
+HP: 234 Missiles: 0 Boss: True Room: H01F_TRO => My pulse says run. My boots say no.
+HP: 235 Missiles: 0 Boss: True Room: H01F_TRO => This suit keeps me upright. My will does the rest.
+HP: 297 Missiles: 0 Boss: True Room: H01F_TRO => A single breath left. Make it count.
+HP: 275 Missiles: 0 Boss: True Room: H01F_TRO => They think I’m cornered. I think I’m sharper.
+HP: 2999 Missiles: 255 Boss: False Room: H003_TRO => Fully stocked. Nowhere safe.
+HP: 2999 Missiles: 255 Boss: False Room: H003_TRO => Tanks full, mind empty. Ready.
+HP: 99 Missiles: 255 Boss: False Room: H003_TRO => I’ve got ammo. I’ve got time. I’ve got ghosts.
+HP: 5 Missiles: 1 Boss: True Room: H00D_TRO => The next shot better be enough.
+HP: 5 Missiles: 1 Boss: True Room: H00D_TRO => If I miss, I don’t get to regret it.
+HP: 5 Missiles: 1 Boss: True Room: H00D_TRO => One missile left. No room for fear.
+HP: 1145 Missiles: 4 Boss: False Room: H007_TRO => Half tanks, half courage.
+HP: 485 Missiles: 144 Boss: False Room: H007_TRO => It hums here. So do my thoughts.
+HP: 465 Missiles: 4 Boss: False Room: H007_TRO => I wish the walls would stop listening.
+HP: 1812 Missiles: 0 Boss: True Room: H015_TRO => If I run now, the X wins.
+HP: 1112 Missiles: 0 Boss: True Room: H015_TRO => My blood hums like the station’s wires.
+HP: 12 Missiles: 0 Boss: True Room: H015_TRO => Can’t break here. Not yet.
+HP: 711 Missiles: 65 Boss: False Room: H004_TRO => If Adam were here, he’d say “Don’t improvise.” Too late.
+HP: 871 Missiles: 5 Boss: False Room: H004_TRO => The hum echoes back my heartbeat.
+HP: 1371 Missiles: 185 Boss: False Room: H004_TRO => Locked and loaded. Shame that’s not enough.
+HP: 1118 Missiles: 120 Boss: True Room: H014_TRO => SA-X somewhere behind this wall. Or inside it.
+HP: 8 Missiles: 0 Boss: True Room: H014_TRO => I feel my heartbeat in the barrel of my arm cannon.
+HP: 8 Missiles: 0 Boss: True Room: H014_TRO => They taught me fear to teach me survival.
+HP: 969 Missiles: 150 Boss: False Room: H001_TRO => The suit hums with borrowed strength.
+HP: 949 Missiles: 190 Boss: False Room: H001_TRO => The Federation loves numbers. They don’t bleed.
+HP: 939 Missiles: 17 Boss: False Room: H001_TRO => This tank will drain eventually. I won’t.
+HP: 520 Missiles: 82 Boss: False Room: H009_TRO => Halfway between death and defiance.
+HP: 50 Missiles: 25 Boss: False Room: H009_TRO => If the lights flicker, I stand still.
+HP: 150 Missiles: 95 Boss: False Room: H009_TRO => The X pulse through these walls. So do I.
+HP: 228 Missiles: 186 Boss: True Room: H01F_TRO => The next corridor eats me alive or I bite back.
+HP: 288 Missiles: 0 Boss: True Room: H01F_TRO => My pulse is louder than the alarms.
+HP: 255 Missiles: 0 Boss: True Room: H01F_TRO => If I bleed out here, let the X choke on it.
+HP: 278 Missiles: 1 Boss: True Room: H019_TRO => One corridor at a time. One ghost at a time.
+HP: 274 Missiles: 1 Boss: True Room: H019_TRO => The SA-X knows my fears. It taught me some.
+HP: 276 Missiles: 1 Boss: True Room: H019_TRO => One shot left. So I take it.
+HP: 654 Missiles: 5 Boss: False Room: H013_TRO => The hum rattles my teeth. Good. Reminds me I’m alive.
+HP: 656 Missiles: 5 Boss: False Room: H013_TRO => Fear drills holes in my calm. I fill them with fire.
+HP: 659 Missiles: 5 Boss: False Room: H013_TRO => If the Chozo saw this — maybe they’d nod. Or mourn.
+HP: 444 Missiles: 4 Boss: False Room: H003_TRO => Adam would say stay logical. My blood says survive.
+HP: 442 Missiles: 4 Boss: False Room: H003_TRO => I breathe through grit. The X breathe through me.
+HP: 443 Missiles: 4 Boss: False Room: H003_TRO => I wear this suit like a promise. Or a lie.
+HP: 64 Missiles: 0 Boss: True Room: H01A_TRO => The walls echo my heartbeat back at me. Good.
+HP: 68 Missiles: 0 Boss: True Room: H01A_TRO => I’ve survived worse. I lie to myself well.
+HP: 66 Missiles: 0 Boss: True Room: H01A_TRO => If this is it, I hope the SA-X bleeds too.
+HP: 139 Missiles: 0 Boss: True Room: H01B_TRO => Ridley’s ghost claws at my spine. So I straighten it.
+HP: 132 Missiles: 0 Boss: True Room: H01B_TRO => I bury fear under layers of armor.
+HP: 139 Missiles: 0 Boss: True Room: H01B_TRO => I killed Ridley once. I’ll kill him again if he’s wearing my face.
+HP: 456 Missiles: 3 Boss: False Room: H006_TRO => The hum masks the lies I tell myself.
+HP: 456 Missiles: 3 Boss: False Room: H006_TRO => Federation calls me “Hunter.” They forgot I hunt them too.
+HP: 452 Missiles: 3 Boss: False Room: H006_TRO => One step. One corridor. One breath. Keep going.
+HP: 743 Missiles: 8 Boss: False Room: H002_TRO => The X mimic my skin. They’ll never mimic my will.
+HP: 746 Missiles: 8 Boss: False Room: H002_TRO => Another hallway hums. Another fear quiets.
+HP: 742 Missiles: 8 Boss: False Room: H002_TRO => No monsters left to fight? Then I’ll fight the dark.
+HP: 503 Missiles: 4 Boss: False Room: H005_TRO => If Adam knew my thoughts, he’d lock me out.
+HP: 504 Missiles: 4 Boss: False Room: H005_TRO => The station vibrates. So does my resolve.
+HP: 503 Missiles: 4 Boss: False Room: H005_TRO => I’m not alone. The X are always with me. Lucky me.
+HP: 34 Missiles: 0 Boss: True Room: H01E_TRO => The station’s veins pulse louder than mine. Good. Let it bleed first.
+HP: 33 Missiles: 0 Boss: True Room: H01E_TRO => One missile would feel like mercy. I don’t need mercy.
+HP: 31 Missiles: 0 Boss: True Room: H01E_TRO => If the SA-X finds me now, it finds a cornered animal. Dangerous.
+HP: 213 Missiles: 1 Boss: True Room: H015_TRO => Adam’s logic would say retreat. My fear says run. My bones say fight.
+HP: 211 Missiles: 1 Boss: True Room: H015_TRO => Every heartbeat’s a countdown. Tick. Tick. Survive.
+HP: 211 Missiles: 1 Boss: True Room: H015_TRO => I don’t remember what calm feels like. Maybe that’s good.
+HP: 622 Missiles: 4 Boss: False Room: H004_TRO => The station hums. The suit hums back. I hum louder.
+HP: 624 Missiles: 4 Boss: False Room: H004_TRO => Sometimes I think the walls whisper my name. Aran. Hunter.
+HP: 625 Missiles: 4 Boss: False Room: H004_TRO => The X crawl in the shadows. So do I.
+HP: 474 Missiles: 2 Boss: False Room: H005_TRO => I wear my fear under this armor. It fits better than courage.
+HP: 477 Missiles: 2 Boss: False Room: H005_TRO => The hum in my helmet is my heartbeat lying.
+HP: 476 Missiles: 2 Boss: False Room: H005_TRO => They’ll write about this place. They won’t write about me.
+HP: 95 Missiles: 0 Boss: True Room: H012_TRO => I’m the last Metroid now. No cage, no lab, no mercy.
+HP: 94 Missiles: 0 Boss: True Room: H012_TRO => The SA-X knows my steps. It doesn’t know my ghosts.
+HP: 95 Missiles: 0 Boss: True Room: H012_TRO => If the door locks behind me, good. No way back.
+HP: 334 Missiles: 3 Boss: False Room: H006_TRO => I wonder if the Chozo would still call me “daughter.”
+HP: 335 Missiles: 3 Boss: False Room: H006_TRO => The Federation sees a weapon. The X see a host. I see a survivor.
+HP: 335 Missiles: 3 Boss: False Room: H006_TRO => The cold metal hums like it knows secrets. So do I.
+HP: 595 Missiles: 7 Boss: False Room: H008_TRO => Another power conduit. Another heartbeat. Mine or the station’s — doesn’t matter.
+HP: 595 Missiles: 7 Boss: False Room: H008_TRO => If this corridor’s my grave, I’ll make it remember me.
+HP: 595 Missiles: 7 Boss: False Room: H008_TRO => Adam always said efficiency. Fear isn’t efficient. But it’s honest.
+HP: 174 Missiles: 0 Boss: True Room: H017_TRO => The SA-X waits for cracks. I show it none. Mostly.
+HP: 171 Missiles: 0 Boss: True Room: H017_TRO => I don’t fear death. I fear not finishing what I started.
+HP: 172 Missiles: 0 Boss: True Room: H017_TRO => Every door’s another lie I break through.
+HP: 992 Missiles: 40 Boss: False Room: H001_TRO => The tank’s full. The suit’s ready. Shame my mind isn’t.
+HP: 992 Missiles: 40 Boss: False Room: H001_TRO => Enough energy to feel invincible. Enough to feel the fear, too.
+HP: 991 Missiles: 40 Boss: False Room: H001_TRO => Sometimes I wish I felt empty. But full tanks mean full memories.
+HP: 991 Missiles: 50 Boss: False Room: H003_TRO => The X think they can drain me. They don’t know how much I can give.
+HP: 992 Missiles: 50 Boss: False Room: H003_TRO => Fully stocked. Fully armed. Fully alone.
+HP: 991 Missiles: 50 Boss: False Room: H003_TRO => I’ve got more than enough missiles. Not enough forgiveness.
+HP: 992 Missiles: 12 Boss: False Room: H009_TRO => Full tanks make the fear quieter. Not silent.
+HP: 993 Missiles: 12 Boss: False Room: H009_TRO => The Federation loves me like this: armed, armored, obedient. Two out of three.
+HP: 997 Missiles: 12 Boss: False Room: H009_TRO => Every heartbeat echoes in the tank. Reminds me why I fight.
+HP: 999 Missiles: 8 Boss: False Room: H00B_TRO => I’ve survived worse on half this tank. Now? They don’t stand a chance.
+HP: 997 Missiles: 8 Boss: False Room: H00B_TRO => Adam would say “Good status.” I’d say “Good luck.”
+HP: 994 Missiles: 8 Boss: False Room: H00B_TRO => This isn’t power. This is debt — paid in X.
+CONTEXT: The B.S.L research station orbits in silence above SR388, its secrets locked behind steel and protocol.
+CONTEXT: I was sent to this station to investigate a simple outbreak. Nothing here is ever simple.
+CONTEXT: The X parasite—deadly, adaptable, insidious. My armor is all that stands between it and everything else.
+CONTEXT: The Federation claims they want to help. I’ve learned to trust actions, not words.
+CONTEXT: Adam watches over me, his voice cold but familiar. It’s strange to take orders from a machine.
+CONTEXT: This place reminds me of Zebes, but colder. No ghosts, only echoes.
+CONTEXT: Every hallway feels too quiet, like the station itself is holding its breath.
+CONTEXT: The X can mimic anything. Even me. I must never let my guard down.
+CONTEXT: SA-X—a twisted reflection of myself, stronger, ruthless, hunting without hesitation.
+CONTEXT: Sometimes I wonder if I’m chasing the X, or if it’s drawing me in.
+CONTEXT: The Power Suit bonds to my body, but sometimes I feel more alien than human.
+CONTEXT: Isolation has always been my companion. Here, it’s the only company I have.
+CONTEXT: I lost count of how many times I’ve cheated death. This time, I may have gone too far.
+CONTEXT: Adam’s logic is flawless, but I miss the warmth of a real commanding officer.
+CONTEXT: The cold rooms sap my strength, but remind me I’m still alive.
+CONTEXT: The X adapt. Every time I destroy one, two more take its place.
+CONTEXT: I can’t let the Federation weaponize these parasites. The galaxy barely survived Mother Brain.
+CONTEXT: Even with my upgrades, I feel underprepared. The station changes faster than I can react.
+CONTEXT: Memories of Zebes haunt my dreams. Here, there is no time to dream.
+CONTEXT: Each sector holds its own dangers, but the greatest threat is what I bring with me.
+CONTEXT: The walls are lined with technology, but it’s the silence that unnerves me.
+CONTEXT: I move from sector to sector, gathering power, losing pieces of myself along the way.
+CONTEXT: The SA-X’s footsteps echo behind me, a predator hunting its prey.
+CONTEXT: I have to remind myself to breathe. The X never rest, and neither can I.
+CONTEXT: This suit once saved my life. Now it feels like a prison.
+CONTEXT: The X are more than a threat—they are evolution unchecked.
+CONTEXT: Sometimes I wonder if Adam truly cares, or if I’m just a mission parameter.
+CONTEXT: The research staff here paid the price for curiosity. I won’t make the same mistake.
+CONTEXT: My only advantage is my unpredictability. The X adapt, but so do I.
+CONTEXT: I survived SR388. I survived Zebes. I can survive this.
+CONTEXT: I remember the explosion that destroyed Zebes—one act, a thousand consequences.
+CONTEXT: The Federation’s secrets run deeper than these walls.
+CONTEXT: I’ve learned that trust is a weakness in places like this.
+CONTEXT: The SA-X carries my DNA, my memories. It is me, and not me.
+CONTEXT: The X parasite is not evil. It simply is. Nature doesn’t care who survives.
+CONTEXT: Adam’s voice echoes in my helmet—sometimes a comfort, sometimes a curse.
+CONTEXT: The X absorb their prey’s memories. I wonder what they’ve learned from me.
+CONTEXT: Power, missiles, super missiles—tools of survival, but sometimes not enough.
+CONTEXT: Every time I defeat a boss, I feel the X learning, growing bolder.
+CONTEXT: I can’t let myself become predictable. The X count on that.
+CONTEXT: Sometimes, I see a reflection in the visor that isn’t my own.
+CONTEXT: My mission is clear: eradicate the X. But what then?
+CONTEXT: I keep moving. Hesitation is death on the B.S.L station.
+CONTEXT: I wish I could trust the Federation, but their motives are always hidden.
+CONTEXT: This research was never supposed to happen. Some things are better left undiscovered.
+CONTEXT: The power rooms are quiet—too quiet.
+CONTEXT: Every save room feels like a sanctuary, but it’s just a pause before the next danger.
+CONTEXT: The X evolve at an alarming rate. I can’t afford to slow down.
+CONTEXT: The deeper I go, the less human I feel.
+CONTEXT: If I make it out alive, I’ll need more than a debriefing.
+CONTEXT: My armor repairs itself, but some wounds never heal.
+CONTEXT: Each upgrade feels like a memory from another life.
+CONTEXT: Even the silence here feels dangerous.
+CONTEXT: The data rooms offer power, but information is the true weapon.
+CONTEXT: Adam’s orders are precise. Sometimes I ignore them, for better or worse.
+CONTEXT: The X are fearless. I can’t let fear control me.
+CONTEXT: Every sector is a new battlefield. I have to adapt to survive.
+CONTEXT: The cold sector nearly killed me. Now, it reminds me to stay cautious.
+CONTEXT: I hear the echoes of the research staff in these halls.
+CONTEXT: Sometimes I wonder if I’m the last human alive on this station.
+CONTEXT: The X want to become perfect. That makes them unstoppable.
+CONTEXT: I wish there were someone to talk to, but isolation is my strength.
+CONTEXT: The Federation will never admit what happened here.
+CONTEXT: I carry more than weapons—I carry secrets.
+CONTEXT: The first time I saw the SA-X, I felt genuine fear.
+CONTEXT: Every room could be a trap. Every door, a test.
+CONTEXT: The air is stale, but charged with danger.
+CONTEXT: My sense of time fades here—only objectives remain.
+CONTEXT: If I die here, who will remember?
+CONTEXT: This station is a tomb, but I refuse to be buried.
+CONTEXT: Power-ups are fleeting victories in a losing war.
+CONTEXT: Each energy tank feels heavier than the last.
+CONTEXT: My footsteps echo, reminding me I’m alone.
+CONTEXT: The X mimic, but they don’t understand fear. That’s my advantage.
+CONTEXT: I wonder if Adam ever second-guessed himself. I don’t have that luxury.
+CONTEXT: These hallways twist on themselves, always leading me back to danger.
+CONTEXT: I trust my instincts—they’ve kept me alive this long.
+CONTEXT: The Federation’s science outpaced its morality.
+CONTEXT: Each boss is another test—of strength, of will, of resolve.
+CONTEXT: The escape sequence still haunts my dreams.
+CONTEXT: My suit hums with energy, but inside, I’m exhausted.
+CONTEXT: I can’t go back to who I was before the X.
+CONTEXT: The B.S.L. station is alive with secrets, and I’m running out of time.
+CONTEXT: In the dark, I remember the voices of the past.
+CONTEXT: Adam said logic was everything. Here, instinct matters more.
+CONTEXT: Sometimes, I move on autopilot—muscle memory and fear.
+CONTEXT: If the X get off this station, there will be no stopping them.
+CONTEXT: Sometimes I hear whispers—memory or hallucination, I can’t tell.
+CONTEXT: The deeper I go, the more the walls close in.
+CONTEXT: Every time I power up, I wonder what I’ve lost.
+CONTEXT: The silence after a fight is the loudest thing on this station.
+CONTEXT: My scars remind me that survival always has a price.
+CONTEXT: The X learn from their mistakes. I have to learn faster.
+CONTEXT: This mission was never about orders. It’s about survival.
+CONTEXT: The B.S.L. station is cold steel and colder secrets.
+CONTEXT: Every time I reload my arm cannon, I remember the days before all this technology.
+CONTEXT: The Federation’s experiments were reckless. I’m here to clean up their mess.
+CONTEXT: SR388 was a graveyard. Now I see its ghosts in every corridor.
+CONTEXT: If the X escape, this could become another Zebes.
+CONTEXT: The SA-X is relentless. It knows my tactics—because they’re its own.
+CONTEXT: Sometimes I think I’m the intruder here, not the X.
+CONTEXT: I miss the comfort of my gunship. Out here, comfort is a memory.
+CONTEXT: Isolation sharpens my senses. I can hear danger before I see it.
+CONTEXT: The data rooms glow with forbidden knowledge.
+CONTEXT: I’ve lost count of the sectors I’ve cleared, but the X keep coming.
+CONTEXT: Every upgrade I find is a small victory, but the war is far from over.
+CONTEXT: I never get used to the feeling of the suit fusing with my skin.
+CONTEXT: My past missions echo in my mind. Each step here feels like déjà vu.
+CONTEXT: The research station’s design is too perfect—like a trap built for me.
+CONTEXT: The X evolve with every defeat. I have to stay unpredictable.
+CONTEXT: Adam’s voice is the last connection I have to the outside world.
+CONTEXT: The longer I’m here, the more I question my orders.
+CONTEXT: In the silence, I sometimes hear my mother’s lullaby. Memory or parasite, I can’t be sure.
+CONTEXT: These halls smell of chemicals and fear.
+CONTEXT: Every elevator ride is a brief respite from the chaos below.
+CONTEXT: The security robots are meant to protect, but here, they’re just another threat.
+CONTEXT: I’ve learned to read the X. Their movements are fast but never random.
+CONTEXT: My heart rate spikes every time I hear the SA-X nearby.
+CONTEXT: I wonder if the X understand pain—or if it’s just another impulse to them.
+CONTEXT: Each data room visit is a reminder of the Federation’s ambitions.
+CONTEXT: I’ve become an expert at navigating the unknown.
+CONTEXT: The cold sector chills more than just my body. It touches something deeper.
+CONTEXT: The X mimic voices, but never the soul.
+CONTEXT: Sometimes I wonder who I’m really fighting for.
+CONTEXT: The Federation wants a weapon. I just want survival.
+CONTEXT: I miss the silence of space. The station is full of too many whispers.
+CONTEXT: When I was a child, I dreamed of being a hero. Now, I just want to make it out alive.
+CONTEXT: I feel the X in my blood—a reminder of what I’ve become.
+CONTEXT: Each boss fight is another brush with death.
+CONTEXT: The lab animals here were innocent. The X showed no mercy.
+CONTEXT: I keep moving. Stagnation is surrender.
+CONTEXT: The suits’ AI tries to keep me safe, but only I know when to break the rules.
+CONTEXT: Sometimes I hope for a transmission from outside. Even bad news would break the monotony.
+CONTEXT: The SA-X stalks me through these corridors—a shadow I can never shake.
+CONTEXT: I carry the weight of every failed experiment in this place.
+CONTEXT: The research logs hint at horrors never meant for daylight.
+CONTEXT: Each new sector brings a new puzzle, a new danger.
+CONTEXT: I trust my instincts, even when they lead me into darkness.
+CONTEXT: Sometimes I find myself talking aloud, just to fight the loneliness.
+CONTEXT: The Federation’s secrets rot behind locked doors.
+CONTEXT: Even with all my upgrades, I still feel vulnerable.
+CONTEXT: The power rooms are sanctuaries, but only briefly.
+CONTEXT: My nightmares are full of X parasites and echoing footsteps.
+CONTEXT: Adam calculates risks; I live them.
+CONTEXT: The air here is heavy with regret.
+CONTEXT: Each save station is a confession booth. I admit my fears and press on.
+CONTEXT: The X adapt to everything. I wonder if they could ever adapt to hope.
+CONTEXT: My reflection in the glass sometimes looks back at me with alien eyes.
+CONTEXT: These rooms feel endless, like the station is alive and watching.
+CONTEXT: I remember old friends lost on missions like this. Their ghosts walk with me.
+CONTEXT: The station’s architecture is a maze, but I never get lost.
+CONTEXT: I repair my suit constantly, but nothing fixes the loneliness.
+CONTEXT: The SA-X never hesitates. I wish I could say the same.
+CONTEXT: Power surges flicker through the lights—ominous, like the breath of a beast.
+CONTEXT: The Federation’s best minds worked here. Their pride was their downfall.
+CONTEXT: I’ve learned to expect betrayal. It hurts less that way.
+CONTEXT: My arm cannon is my only constant companion.
+CONTEXT: The X are drawn to power. So am I.
+CONTEXT: I sometimes wonder if my humanity is slipping away.
+CONTEXT: The silence is only broken by the hum of machinery.
+CONTEXT: Each new ability comes at a cost.
+CONTEXT: The labs are filled with failed experiments—monuments to hubris.
+CONTEXT: I miss the sky. There are no stars in here.
+CONTEXT: The Federation always wanted more. Now they have chaos.
+CONTEXT: I scan every corner for hidden threats.
+CONTEXT: Every time I save, I wonder if it’s the last.
+CONTEXT: I can’t afford doubt—not here, not now.
+CONTEXT: The X parasites have no fear. I have too much.
+CONTEXT: Every locked door is a question. I’m running out of answers.
+CONTEXT: My suit’s readings fluctuate, as if the station itself is interfering.
+CONTEXT: The X are relentless, never sleeping, always seeking.
+CONTEXT: Sometimes the only way forward is through the darkness.
+CONTEXT: Each sector tells its own story of failure.
+CONTEXT: Adam’s guidance keeps me alive, but my instincts keep me human.
+CONTEXT: The station’s gravity feels heavier every day.
+CONTEXT: I miss the sense of purpose I had before all this.
+CONTEXT: The power cores pulse, alive with dangerous energy.
+CONTEXT: My suit can heal my wounds, but not my memories.
+CONTEXT: The X hunt in silence, learning from every loss.
+CONTEXT: I never know what waits behind the next door.
+CONTEXT: The B.S.L. station is a tomb, but I refuse to join the dead.
+CONTEXT: I listen for the X. Their movements are never random.
+CONTEXT: The Federation’s promises mean nothing in the dark.
+CONTEXT: I envy the simplicity of the X—just survive, no questions.
+CONTEXT: My mission is clear, but my mind is full of doubts.
+CONTEXT: Sometimes I forget what silence really sounds like.
+CONTEXT: The labs were full of hope once. Now, only fear remains.
+CONTEXT: Every time I use a missile, I remember training on SR388.
+CONTEXT: There are no easy choices on this station.
+CONTEXT: The SA-X is proof that even a hero can become a monster.
+CONTEXT: Each new threat tests the limits of my resolve.
+CONTEXT: I fight for survival, but sometimes I fight for revenge.
+CONTEXT: I wish Adam could tell me something human. Logic isn’t enough.
+CONTEXT: The walls remember everything. So do I.
+CONTEXT: Every second here is a battle against the unknown.
+CONTEXT: I am Samus Aran. I will not break.
+CONTEXT: Samus dislikes repeating herself. She always tries to phrase things in a new way.
+
+

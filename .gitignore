@@ -1,0 +1,46 @@
+# Python virtual environments
+venv/
+train_venv/
+voice_venv/
+llmetroid-env/
+
+# Python cache and build artifacts
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Jupyter/IPython stuff (if any)
+.ipynb_checkpoints/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Editor/project configs
+.vscode/
+.idea/
+*.swp
+
+# Large/binary/emulator stuff (customize as needed)
+*.exe
+*.dll
+*.zip
+*.bin
+*.iso
+*.img
+*.so
+Firmware/
+gamedb/
+Shaders/
+OpenTK.dll.config
+
+# Logs, locks, misc
+*.log
+*.lock
+
+# (Optional) Demo audio—comment out if you want to keep your sample .wav in the repo
+#*.wav
+
+# Node modules (if you ever use npm in this project)
+node_modules/
