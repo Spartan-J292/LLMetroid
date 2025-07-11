@@ -1,4 +1,6 @@
 LLMetroid
+
+
 Ever wish Samus Aran would narrate her own existential dread while exploring? LLMetroid makes it happen. This is a proof-of-concept that uses a fine-tuned LLM and emulator Lua scripting to bring inner monologue to Metroid.
 
 What Is This?
@@ -7,40 +9,35 @@ The Lua script grabs Samus’s energy, missile count, and room info and feeds it
 
 Setup Guide
 1. Clone This Repo
-bash
-Copy
-Edit
+   
 git clone https://github.com/Spartan-J292/LLMetroid.git
+
 cd LLMetroid
-2. Set Up Virtual Environments
+
+Set Up Virtual Environments
+
 You need two venvs:
-
 One for training the model
-
 One for running the TTS/voice stuff
 
 Training venv
-bash
-Copy
-Edit
+
 python -m venv train_venv
-source train_venv/bin/activate          # Linux/macOS
+
+source train_venv/bin/activate # Linux/macOS
 # .\train_venv\Scripts\activate        # Windows
 pip install -r requirements-train.txt
 Voice venv
-bash
-Copy
-Edit
+
 python -m venv voice_venv
 source voice_venv/bin/activate          # Linux/macOS
 # .\voice_venv\Scripts\activate        # Windows
 pip install -r requirements-voice.txt
+
 3. Train or Load Your Model
 To train your own Samus-brain, run:
 
-bash
-Copy
-Edit
+
 python train_gp2.py
 This will create a gpt2-finetuned directory (used by suit_voice.py).
 
@@ -51,17 +48,12 @@ Open mgba_ram_watch.lua (or whatever Lua script you use for RAM scraping) in the
 
 5. Run the Samus Voice
 Activate your voice venv:
+source voice_venv/bin/activate          # Linux/macOS
+# .\voice_venv\Scripts\activate        # Windows
 
-bash
-Copy
-Edit
-source voice_venv/bin/activate
 Start the commentary:
-
-bash
-Copy
-Edit
 python suit_voice.py
+
 6. Demo
 Check out suit_output.wav for a sample of what the voice output sounds like.
 
