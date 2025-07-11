@@ -49,7 +49,7 @@ Open mgba_ram_watch.lua (or whatever Lua script you use for RAM scraping) in the
 5. Run the Samus Voice
 Activate your voice venv:
 source voice_venv/bin/activate          # Linux/macOS
-# .\voice_venv\Scripts\activate        # Windows
+.\voice_venv\Scripts\activate        # Windows
 
 Start the commentary:
 python suit_voice.py
