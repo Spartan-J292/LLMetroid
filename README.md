@@ -1,37 +1,37 @@
-LLMetroid
+# LLMetroid
 
 
-Ever wish Samus Aran would narrate her own existential dread while exploring? LLMetroid makes it happen. This is a proof-of-concept that uses a fine-tuned LLM and emulator Lua scripting to bring inner monologue to Metroid.
+# Ever wish Samus Aran would narrate her own existential dread while exploring? LLMetroid makes it happen. This is a proof-of-concept that uses a fine-tuned LLM and emulator Lua scripting to bring inner monologue to Metroid.
 
 What Is This?
 LLMetroid hooks a custom-trained GPT-2 model to your Metroid emulator (tested on BizHawk & mGBA).
 The Lua script grabs Samus’s energy, missile count, and room info and feeds it to the LLM, generating real-time Samus commentary.
 
-Setup Guide
+# Setup Guide
 1. Clone This Repo
    
 git clone https://github.com/Spartan-J292/LLMetroid.git
 
 cd LLMetroid
 
-Set Up Virtual Environments
+# Set Up Virtual Environments
 
-You need two venvs:
+2. You need two venvs:
 One for training the model
 One for running the TTS/voice stuff
 
-Training venv
+# Training venv
 
 python -m venv train_venv
 
 source train_venv/bin/activate # Linux/macOS
-# .\train_venv\Scripts\activate        # Windows
+.\train_venv\Scripts\activate        # Windows
 pip install -r requirements-train.txt
 Voice venv
 
 python -m venv voice_venv
 source voice_venv/bin/activate          # Linux/macOS
-# .\voice_venv\Scripts\activate        # Windows
+.\voice_venv\Scripts\activate        # Windows
 pip install -r requirements-voice.txt
 
 3. Train or Load Your Model
